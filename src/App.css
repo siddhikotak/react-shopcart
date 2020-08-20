@@ -1,0 +1,34 @@
+.App {
+  font-family: "CircularStd", sans-serif;
+}
+
+.box {
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center;  */
+  width: 600px;
+  height: 70vh;
+}
+
+.leftContainer {
+  flex: 1;
+  overflow-y: auto;
+  border: 1px solid #b3b3b3;
+}
+
+.img {
+  margin-left: 40px;
+  width: 40px;
+  flex: 1;
+  height: 15vh;
+  border: 1px solid #b3b3b3;
+  cursor: pointer;
+}
+
+.rightContainer {
+  flex: 4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #b3b3b3;
+}

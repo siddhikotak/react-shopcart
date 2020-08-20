@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.250",
+    "image": "img1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Formal Full Sleeves",
+    "price": "Rs.350",
+    "image": "img2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.450",
+    "image": "img3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.200",
+    "image": "img4.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.250",
+    "image": "img5.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.650",
+    "image": "img6.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.250",
+    "image": "img2.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.250",
+    "image": "img1.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.350",
+    "image": "img4.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.150",
+    "image": "img5.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.800",
+    "image": "img3.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.600",
+    "image": "img6.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.350",
+    "image": "img1.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.550",
+    "image": "img4.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.300",
+    "image": "img6.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Casual Ruffled Sleeves",
+    "price": "Rs.750",
+    "image": "img5.jpeg"
+  }
+]
