@@ -50,7 +50,7 @@ const Navbar = () => {
       <Grid container>
         <Grid container item justify="flex-start" alignItems="center" xs={6}>
           <Link to="/" style={{ textDecoration: "none" }}>
-            <div className={classes.logo}>StoreBx</div>
+            <div className={classes.logo}>StoreCx</div>
           </Link>
         </Grid>
         <Grid container item justify="flex-end" alignItems="center" xs={6}>
